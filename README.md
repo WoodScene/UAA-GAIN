@@ -21,3 +21,15 @@ All other baseline methods are also in the "EXPERIMENTS" folder.
 ## Complete experimental results
 Due to space limitations in the paper, it is not possible to show the results of the experiments for all years.
 Here we show all the results of the experiments in graphs：
+
+* UK-Obesity results：
+![RMSE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/UK_RMSE.png)
+![MAPE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/UK_MAPE.png)
+
+* US-Hypertension results：
+![RMSE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/US_RMSE.png)
+![MAPE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/US_MAPE.png)
+
+* Taiwan-Diabetes results：
+![RMSE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_RMSE.png)
+![MAPE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_MAPE.png)
