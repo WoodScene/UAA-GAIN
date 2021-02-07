@@ -25,15 +25,16 @@ Here we show all the results of the experiments in graphs：
 * UK-Obesity results：
 
 <img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/UK_RMSE.png" width="320" height="240"/><br/>
-![RMSE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/UK_RMSE.png)
-![MAPE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/UK_MAPE.png)
+<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/UK_MAPE.png" width="320" height="240"/><br/>
 
 * US-Hypertension results：
 
-![RMSE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/US_RMSE.png)
-![MAPE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/US_MAPE.png)
+<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/US_RMSE.png" width="400" height="300"/><br/>
+<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/US_MAPE.png" width="400" height="300"/><br/>
+
 
 * Taiwan-Diabetes results：
 
-![RMSE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_RMSE.png)
-![MAPE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_MAPE.png)
+<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_RMSE.png" width="480" height="360"/><br/>
+<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_MAPE.png" width="480" height="480"/><br/>
+
