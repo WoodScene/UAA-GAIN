@@ -23,13 +23,17 @@ Due to space limitations in the paper, it is not possible to show the results of
 Here we show all the results of the experiments in graphs：
 
 * UK-Obesity results：
+
+<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/UK_RMSE.png" width="320" height="240"/><br/>
 ![RMSE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/UK_RMSE.png)
 ![MAPE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/UK_MAPE.png)
 
 * US-Hypertension results：
+
 ![RMSE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/US_RMSE.png)
 ![MAPE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/US_MAPE.png)
 
 * Taiwan-Diabetes results：
+
 ![RMSE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_RMSE.png)
 ![MAPE](https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_MAPE.png)
