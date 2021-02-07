@@ -7,14 +7,15 @@ Install python, tensorflow. We use Python 3.7, Tensorflow 1.14.0.
 
 ## Data preparation
 The three open-world Chronic Diseases Prevalence Datasets can be downloaded at:
-*UK-Obesity Dataset: https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data
-*US-Hypertension Dataset: https://www.cdc.gov/500cities/
-*Taiwan-Diabetes Dataset: https://dep.mohw.gov.tw/DOS/cp-2519-3480-113.html
+* UK-Obesity Dataset: https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data
+* US-Hypertension Dataset: https://www.cdc.gov/500cities/
+* Taiwan-Diabetes Dataset: https://dep.mohw.gov.tw/DOS/cp-2519-3480-113.html
 
 The "DATA" folder contains the downloaded raw data set and the pre-processed normalised data.
 
 ## Run
 All the hyper-parameters and steps are included in the ./EXPERIMENTS/UAA-GAIN/main.py file, you can run it directly.
+
 All other baseline methods are also in the "EXPERIMENTS" folder.
 
 ## Complete experimental results
