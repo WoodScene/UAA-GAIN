@@ -36,5 +36,8 @@ Here we show all the results of the experiments in graphs：
 * Taiwan-Diabetes results：
 
 <img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_RMSE.png" width="480" height="360"/><br/>
-<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_MAPE.png" width="480" height="480"/><br/>
+<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_MAPE.png" width="480" height="360"/><br/>
+
+<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_RMSE.png" width="360" height="480"/><br/>
+<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_MAPE.png" width="360" height="480"/><br/>
 
