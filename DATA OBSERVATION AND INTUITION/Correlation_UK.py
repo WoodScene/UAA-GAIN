@@ -20,7 +20,7 @@ disease_list = ['Coronary Heart Disease Prevalence', 'Stroke or Transient Ischae
 #  pearson
 def Mining_pearson():
     diease_id = 3
-    df = pd.read_csv("./DATA/Chronic_Diseases_Prevalence_Dataset.csv")
+    df = pd.read_csv("./DATA/UK_Obesity.csv")
     corr_list = []
     x = []
     for length in range(1,10):
@@ -59,7 +59,7 @@ def JS_divergence(p,q):
 
 def Minging_JS(diease_id):
 
-    df = pd.read_csv("./DATA/Chronic_Diseases_Prevalence_Dataset.csv")
+    df = pd.read_csv("./DATA/UK_Obesity.csv")
     corr_list = []
     x = []
     for length in range(1, 10):
@@ -98,7 +98,7 @@ def KL_divergence(p,q):
     return scipy.stats.entropy(p, q)
 
 def Minging_KL(diease_id):
-    df = pd.read_csv("./DATA/Chronic_Diseases_Prevalence_Dataset.csv")
+    df = pd.read_csv("./DATA/UK_Obesity.csv")
     corr_list = []
     x = []
     for length in range(1, 10):
@@ -134,7 +134,7 @@ def Minging_KL(diease_id):
 
 def Minging_Wasserstein(diease_id):
     print("Wasserstein")
-    df = pd.read_csv("./DATA/Chronic_Diseases_Prevalence_Dataset.csv")
+    df = pd.read_csv("./DATA/UK_Obesity.csv")
     corr_list = []
     x = []
     for length in range(1, 10):

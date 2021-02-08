@@ -19,7 +19,7 @@ disease_list = ['Coronary Heart Disease Prevalence', 'Stroke or Transient Ischae
 
 def Histogram(diease_id):
     print()
-    df = pd.read_csv("./DATA/Chronic_Diseases_Prevalence_Dataset.csv")
+    df = pd.read_csv("./DATA/UK_Obesity.csv")
     for year in range(2008, 2018):
 
         col_list = [disease_list[diease_id] + "_" + str(year)]
@@ -41,7 +41,7 @@ def Histogram(diease_id):
 
 def QQplot(diease_id):
     print()
-    df = pd.read_csv("./DATA/Chronic_Diseases_Prevalence_Dataset.csv")
+    df = pd.read_csv("./DATA/UK_Obesity.csv")
 
     for year in range(2008, 2018):
         col_list = [disease_list[diease_id] + "_" + str(year)]
@@ -63,7 +63,7 @@ def QQplot(diease_id):
 
 def KS_test(diease_id):
     print()
-    df = pd.read_csv("./DATA/Chronic_Diseases_Prevalence_Dataset.csv")
+    df = pd.read_csv("./DATA/UK_Obesity.csv")
 
     for year in range(2008, 2018):
 
@@ -80,7 +80,7 @@ def KS_test(diease_id):
 
 def SW_test(diease_id):
     #print()
-    df = pd.read_csv("./DATA/Chronic_Diseases_Prevalence_Dataset.csv")
+    df = pd.read_csv("./DATA/UK_Obesity.csv")
     for year in range(2008, 2018):
         print(year)
         col_list = [disease_list[diease_id] + "_" + str(year)]
@@ -95,7 +95,7 @@ def SW_test(diease_id):
 
 
 if __name__ == '__main__':
-    diease_id = 2
+    diease_id = 15
     Histogram(diease_id)
     QQplot(diease_id)
     #KS_test(diease_id)
