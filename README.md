@@ -1,6 +1,6 @@
 # UAA-GAIN
 
-###!!Update July 2022
+### Update July 2022
  (Second Revision)  
  New! Add requirements.txt  
  
