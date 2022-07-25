@@ -17,7 +17,7 @@ We add experiments on loss changes, resource usage, and time consumption during 
 
 * Resource usages：
 
-<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/Table3.png" width="960" height="280"/><br/>
+<img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/Table3.png" width="750" height="130"/><br/>
 ---
 
 The source code for Towards Sustainable Compressive Population Health: A GAN-based Year-By-Year Imputation Method    
