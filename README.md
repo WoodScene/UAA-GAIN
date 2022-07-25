@@ -15,7 +15,7 @@ We add experiments on loss changes, resource usage, and time consumption during 
 
 <img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/UK_AC.png" width="480" height="360"/><br/>
 
-
+---
 
 The source code for Towards Sustainable Compressive Population Health: A GAN-based Year-By-Year Imputation Method    
 Thank you for your interest in our work, we have uploaded the Section 4 DATA OBSERVATION AND INTUITION and all the code for the model here.
