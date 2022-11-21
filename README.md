@@ -2,10 +2,13 @@
 
 
 The source code for Towards Sustainable Compressive Population Health: A GAN-based Year-By-Year Imputation Method    
+[Paper](https://dl.acm.org/doi/abs/10.1145/3571159)
+Published on ACM Transactions on Computing for Healthcare 2022 
 Thank you for your interest in our work, we have uploaded the Section 4 DATA OBSERVATION AND INTUITION and all the code for the model here.
 
 ## Requirements
 Install python, tensorflow. We use Python 3.7, Tensorflow 1.14.0.
+See requirements.txt 
 
 ## Data preparation
 The three open-world Chronic Diseases Prevalence Datasets can be downloaded at:
@@ -41,4 +44,9 @@ Here we show all the results of the experiments in graphs：
 <img src="https://github.com/WoodScene/Paper_pictures/blob/main/KDD2021/TAIWAN_MAPE.png" width="480" height="360"/><br/>
 
 
+## Citation
+```csharp
 
+if (x == 12)
+
+```
