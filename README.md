@@ -1,9 +1,10 @@
 # UAA-GAIN
 
 
-The source code for Towards Sustainable Compressive Population Health: A GAN-based Year-By-Year Imputation Method    
-[Paper](https://dl.acm.org/doi/abs/10.1145/3571159)
+The source code for [Towards Sustainable Compressive Population Health: A GAN-based Year-By-Year Imputation Method](https://dl.acm.org/doi/abs/10.1145/3571159)
+
 Published on ACM Transactions on Computing for Healthcare 2022 
+
 Thank you for your interest in our work, we have uploaded the Section 4 DATA OBSERVATION AND INTUITION and all the code for the model here.
 
 ## Requirements
@@ -45,8 +46,14 @@ Here we show all the results of the experiments in graphs：
 
 
 ## Citation
-```csharp
+```
 
-if (x == 12)
+@article{feng2022towards,
+  title={Towards Sustainable Compressive Population Health: A GAN-based Year-By-Year Imputation Method},
+  author={Feng, Yujie and Wang, Jiangtao and Wang, Yasha and Chu, Xu},
+  journal={ACM Transactions on Computing for Healthcare},
+  year={2022},
+  publisher={ACM New York, NY}
+}
 
 ```
